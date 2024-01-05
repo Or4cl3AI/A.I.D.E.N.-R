@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/A.I.D.E.N.-R
 report_id: 16f6725096cedaeb491ddf9a4529677d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:58:39+00:00'
+timestamp: '2024-01-05T08:34:33+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R
   detection_source: Repo Metadata
 - name: Rails
   description: Web development that doesn't hurt
@@ -27,7 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/990/x57_Lorv.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -60,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R
   detection_source: Repo Metadata
 - name: Puma
   description: A Modern, Concurrent Web Server for Ruby
@@ -71,7 +76,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1055/favicon.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -85,7 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2539/logo.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -99,7 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2643/rubocop.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -111,6 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -124,7 +130,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -138,7 +144,7 @@ tools:
   category: Application Utilities
   sub_category: Ruby Utilities
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -152,7 +158,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18854/default_09811c2c16af4754129f39ba1dab0d23ca3d2476.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -167,7 +173,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19040/default_6307a3eb8ac1c7d425b9163e046ba444d20d3abd.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -181,7 +187,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18897/default_31c6044490fb5c1bec1388b8ceb466b6ac78ae92.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -195,7 +201,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -209,7 +215,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -223,7 +229,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/rubygems/image.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -237,7 +243,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18830/default_ba8d7756589e5fc0164687950e3f091b32554546.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -250,6 +256,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18876/default_d416e715a80ce80ae31b87cff032f5873c8a9d2a.png
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -264,7 +271,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18912/default_f78521c51e3a38a8810251cfa8909b18ae0b40a8.png
-  detection_source_url: Gemfile
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
@@ -277,6 +284,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19167/default_f74adb1c8d95c3268ea94f5ba9bbb60a0bc900ed.png
+  detection_source_url: https://github.com/Or4cl3AI/A.I.D.E.N.-R/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-11-11 10:02:53.000000000 Z
